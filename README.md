@@ -1,6 +1,9 @@
 
 # Zap AI Home Task: AI-Driven E-Commerce Innovation
 
+## Presentation Video
+https://youtu.be/3yVByZEnRok
+
 ## Part 1: Overview
 
 This project presents an innovative, AI-powered capability for Zap.co.il, the leading price comparison and e-commerce platform in Israel. The proposed solution, the "AI Buying Advisor," aims to revolutionize the shopping experience by helping users navigate a vast product catalog, overcome information overload, and make confident, data-driven purchasing decisions.
