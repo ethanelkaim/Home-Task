@@ -1,5 +1,5 @@
 
-# Zap AI Home Task: AI-Driven E-Commerce Innovation
+# Home Task: AI-Driven E-Commerce Innovation
 
 ## Video Presentation
 https://youtu.be/3yVByZEnRok
